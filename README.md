@@ -24,6 +24,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/Pass-Bucket.git
 cd Pass-Bucket
-python Pass-Bucket.py
+python3 Pass-Bucket.py
 ```
 
