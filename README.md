@@ -28,7 +28,7 @@ python3 Pass-Bucket.py
 ```
 
 
-## Example
+## 👁 Example
 ```
 Enter password length (default 10): 16
 How many passwords to generate? (default 1): 3
