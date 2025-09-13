@@ -27,3 +27,13 @@ cd Pass-Bucket
 python3 Pass-Bucket.py
 ```
 
+
+## Example
+```
+Enter password length (default 10): 16
+How many passwords to generate? (default 1): 3
+Password 1: Ue!4{hR9Dz2[QjN%
+Password 2: qB)8Gv7+Xc_Ld=5M
+Password 3: 1p#K{9w@Tf$6rVbA
+```
+
